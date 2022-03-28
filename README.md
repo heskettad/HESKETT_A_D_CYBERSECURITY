@@ -4,7 +4,7 @@ Projects and scripts for Dean Heskett
 
 The files in this repository were used to configure the network depicted below.
 
-Azure Data Center w Virtual Machines and ELK Server (Images/diagram_filename.png)
+Azure Data Center w Virtual Machines and ELK Server https://github.com/heskettad/HESKETT_A_D_CYBERSECURITY/blob/main/diagrams/Network%20diagram.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Azure Data Center file may be used to install only certain pieces of it, such as Filebeat.
 
