@@ -87,7 +87,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-https://github.com/heskettad/HESKETT_A_D_CYBERSECURITY/blob/main/diagrams/Network%20diagram.png
+https://github.com/heskettad/HESKETT_A_D_CYBERSECURITY/blob/main/diagrams/Screenshot%202022-03-18%20161821%20elk.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
