@@ -12,7 +12,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
   -filebeat-playbook.yml
 
 This document contains the following details:
-- Description of the Topologu
+- Description of the Topology
 - Access Policies
 - ELK Configuration
   - Beats in Use
@@ -130,7 +130,7 @@ _TODO: Answer the following questions to fill in the blanks:_
 - Which URL do you navigate to in order to check that the ELK server is running?
 	-http://20.231.45.226:5601
 
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
+
 
 
 
